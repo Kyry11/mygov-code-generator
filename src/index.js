@@ -3,6 +3,7 @@ const { base32, base64 } = require("rfc4648");
 
 document.getElementById("app").innerHTML = `
 <h1>My Gov No Decoder</h1>
+<img src="./myGovCodeGeneratorLogo.svg" />
 <div>
   <label>Encoded value</label>
   <div id="secretInput" class="text" contenteditable="true"></div>
