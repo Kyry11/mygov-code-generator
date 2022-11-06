@@ -21,7 +21,7 @@
   },
   "keywords": [],
   "staticFiles": {
-    "staticPath": "assets",
+    "staticPath": "src/assets",
     "watcherGlob": "**"
   }
 }
