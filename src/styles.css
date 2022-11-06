@@ -1,0 +1,16 @@
+* {
+  outline-style: none;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+div.text {
+  width: 500px;
+  min-height: 50px;
+  max-height: 300px;
+  border: 2px solid pink;
+  padding: 5px;
+  word-wrap: break-word;
+}
