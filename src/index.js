@@ -20,7 +20,7 @@ document.getElementById("app").innerHTML = `
 let secretInput = document.getElementById("secretInput");
 let secretOutput = document.getElementById("secretOutput");
 let getToken = document.getElementById("getToken");
-const blah = '';let blah = 0;
+const blah = '';
 if (getToken) {
   getToken.onclick = () => {
     try {
